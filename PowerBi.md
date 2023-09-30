@@ -1,1 +1,0 @@
-<iframe title="HollywoodMostProfitableStories2007-2011" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=1c1ac093-001f-4346-ba01-dcfa81026aac&autoAuth=true&ctid=94be1240-ebb2-46e3-817d-1fc4378d02a8" frameborder="0" allowFullScreen="true"></iframe>
