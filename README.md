@@ -1,4 +1,4 @@
-# Invoice Creator Tool
+# Invoice Creator Tool using Excel VBA & Macros
 
 ## Purpose
 
