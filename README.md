@@ -3,18 +3,12 @@
 Welcome to the project repository! This repository contains multiple projects, each residing in its own branch. Please follow the instructions below to explore the projects:
 
 ## Projects
-
-1. **Hollywood Profit Analysis Dashboard**
-   - Branch: `R-&-Power-BI`
    
-2. **Automated Translation and Summarization of Foreign News Headlines using GPT and Web Scraping**
+**Automated Translation and Summarization of Foreign News Headlines using GPT and Web Scraping**
    - Branch: `GPT-&-Web-Scrapping`
 
-3. **Web Scraping Data from Twitter and Social Media**
+**Web Scraping Data from Twitter and Social Media**
    - Branch: `Twitter-Web-Scrapping`
-
-3. **Invoice Creator**
-   - Branch: `Excel-VBA-&-Macros`
      
 ## Instructions
 
