@@ -1,5 +1,3 @@
-USE bakery;
-
 DELIMITER $$
 DROP PROCEDURE IF EXISTS Copy_and_Clean_Data;
 CREATE PROCEDURE Copy_and_Clean_Data()
