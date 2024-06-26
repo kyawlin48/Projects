@@ -4,11 +4,9 @@ Welcome to the project repository! This repository contains multiple projects, e
 
 ## Projects
    
-**Automated Translation and Summarization of Foreign News Headlines using GPT and Web Scraping**
-   - Branch: `GPT-&-Web-Scrapping`
-
-**Web Scraping Data from Twitter and Social Media**
-   - Branch: `Twitter-Web-Scrapping`
+- **Automated Translation and Summarization of Foreign News Headlines using GPT and Web Scraping**
+   
+- **SQL Automated Data Cleaning**
      
 ## Instructions
 
