@@ -12,7 +12,7 @@ Welcome to the project repository! This repository contains multiple projects, e
 
 1. Choose the project you want to explore.
 2. Navigate to the respective branch using the branch selection dropdown in the GitHub repository interface.
-3. Browse the project's source code, documentation, or any associated files.
+3. Browse the project's source code, documentation or any associated files.
 
 Feel free to contribute or report issues specific to each project on their respective branches. Happy coding!
 
